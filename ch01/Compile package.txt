@@ -1,0 +1,7 @@
+cd /OCA_Java
+
+# To compile
+javac packagea/ClassA.java packageb/ClassB.java
+
+# To run
+java packageb.ClassB
